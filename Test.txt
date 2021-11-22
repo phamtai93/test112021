@@ -1,2 +1,3 @@
 Test git
 Master init
+M1
